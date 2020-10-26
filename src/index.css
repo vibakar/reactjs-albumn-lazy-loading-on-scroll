@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.album {
+  border: 1px solid #efefef;
+  margin: 20px;
+}
